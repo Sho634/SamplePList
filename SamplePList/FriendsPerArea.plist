@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>prefecturelist</key>
+	<array>
+		<dict>
+			<key>No</key>
+			<integer>1</integer>
+			<key>Name</key>
+			<string>北海道</string>
+		</dict>
+		<dict>
+			<key>friendlist</key>
+			<array>
+				<string>ともや</string>
+			</array>
+			<key>No</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>No</key>
+			<integer>3</integer>
+			<key>Name</key>
+			<string>岩手</string>
+		</dict>
+		<dict>
+			<key>friendlist</key>
+			<array/>
+			<key>New item</key>
+			<string>ともこ</string>
+			<key>No</key>
+			<integer>4</integer>
+			<key>Name</key>
+			<string>秋田</string>
+		</dict>
+		<dict>
+			<key>friendlist</key>
+			<array/>
+			<key>New item</key>
+			<string>ともき</string>
+			<key>No</key>
+			<integer>5</integer>
+			<key>Name</key>
+			<string>広島</string>
+		</dict>
+		<dict>
+			<key>No</key>
+			<integer>6</integer>
+			<key>Name</key>
+			<string>沖縄</string>
+		</dict>
+		<dict>
+			<key>No</key>
+			<integer>7</integer>
+			<key>Name</key>
+			<string>愛知</string>
+		</dict>
+		<dict>
+			<key>No</key>
+			<integer>8</integer>
+			<key>Name</key>
+			<string>熊本</string>
+		</dict>
+		<dict>
+			<key>No</key>
+			<integer>9</integer>
+			<key>Name</key>
+			<string>鹿児島</string>
+		</dict>
+		<dict>
+			<key>No</key>
+			<integer>10</integer>
+			<key>Name</key>
+			<string>栃木</string>
+		</dict>
+		<dict>
+			<key>No</key>
+			<integer>1</integer>
+			<key>Name</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>
